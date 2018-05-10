@@ -1,7 +1,4 @@
----
-title: Tomas Kulhanek
-subtitle: Scientific Software Developer
----
+
 ## Current project
 - [H2020 West-Life](https://www.west-life.eu)
 - [Virtual Folder](https://portal.west-life.eu) - public web application aggregating scattered data from different storage providers, giving common interface and API. 
