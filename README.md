@@ -8,8 +8,9 @@ Source codes at [Virtual Folder src](https://github.com/h2020-westlife-eu/west-l
 Source codes at [Repository](https://github.com/h2020-westlife-eu/wp6-repository) and documentation at [gitbook repository](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs/repository).
 
 ## Past projects
-- [Physiovalues](http://www.physiovalues.tk) - 
-- [Physiolibrary](http://www.physiolibrary.org) -
-- [Psychoacoustic Tests](http://physiome.lf1.cuni.cz/psychoacoustictest/) -
+- [Physiovalues](http://www.physiovalues.tk) - web based system to perform simulation and parameter identification in multiple nodes distributed in local cluster or cloud computing environment
+- [Physiolibrary](http://www.physiolibrary.org) - Modelica library to enable and facilitate modeling of human physiology using mechanistic approach introduced in original [HumMod](http://www.hummod.org) and [Physiomodel](http://www.physiomodel.org) 
+- [Psychoacoustic Tests](http://physiome.lf1.cuni.cz/psychoacoustictest/) - web application to edit and perform assesment of perception on sounds, voice and music
 
-
+## Other resources
+- [Personal blog](https://tomaskulhanek.github.io/blog)
