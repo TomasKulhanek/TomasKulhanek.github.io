@@ -1,17 +1,32 @@
 ---
 title: Tomas Kulhanek
-subtitle: Scientific Software Developer
+subtitle: Software Developer for Science and Research
 ---
 
 I'm software developer with a special focus on scientific virtual research environment utilizing grid and cloud computing leveraging the computational, configuration, installation task in order to enable high quality research supported by current technology and contemporary methods.
 
 ## Current project
-- [H2020 West-Life](https://www.west-life.eu)
+- [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology
+
 - [Virtual Folder](https://portal.west-life.eu) - public web application aggregating scattered data from different storage providers, giving common interface and API. 
-Source codes at [Virtual Folder src](https://github.com/h2020-westlife-eu/west-life-wp6) and documentation at [gitbook virtual-folder-docs](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs).
+
+[Virtual Folder src](https://github.com/h2020-westlife-eu/west-life-wp6) - source codes
+
+[Virtual Folder Gitbook Docs](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs) - documentation
 
 - Repository - exemplar implementation of repository for data management for small and medium facility connected to structural biology community via Instruct org.
-Source codes at [Repository](https://github.com/h2020-westlife-eu/wp6-repository) and documentation at [gitbook repository](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs/repository).
+
+[Repository source codes](https://github.com/h2020-westlife-eu/wp6-repository) - Source codes
+
+[Repository Gitbook Docs](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs/repository) - documentation
+
+Talk at CERN about the project from [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
+<video width="720" height="480" controls>
+  <source src="https://mediastream.cern.ch/MediaArchive/Video/Public/WebLectures/2018/608592c27/608592c27_desktop_camera_480p_1000.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+
 
 ## Books
 - [Medical Physiology in Modelica](http://book.physiovalues.tk) - 10% complete, aim to deliver interactive book with models in modelica following common methods in modeling human physiology.
@@ -20,6 +35,11 @@ Source codes at [Repository](https://github.com/h2020-westlife-eu/wp6-repository
 - [Physiovalues](http://www.physiovalues.tk) - web based system to perform simulation and parameter identification in multiple nodes distributed in local cluster or cloud computing environment
 - [Physiolibrary](http://www.physiolibrary.org) - Modelica library to enable and facilitate modeling of human physiology using mechanistic approach introduced in original [HumMod](http://www.hummod.org) and [Physiomodel](http://www.physiomodel.org) 
 - [Psychoacoustic Tests](http://physiome.lf1.cuni.cz/psychoacoustictest/) - web application to edit and perform assesment of perception on sounds, voice and music
+
+Short interview in EGI user forum about relation of scientific domain (physiology) and technology (grid & cloud computing).
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/hRlFrwQiN3o">
+</iframe> 
 
 ## Other resources
 - [Personal blog](https://tomaskulhanek.github.io/blog)
