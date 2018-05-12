@@ -6,12 +6,15 @@ I'm software developer with a special focus on scientific virtual research envir
 - [Repository](https://github.com/h2020-westlife-eu/wp6-repository) - exemplar implementation of repository of data for small and middle facilities in order to follow data management during life cycle of data in structural biology research.
 - Talk at CERN about the project from [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
 <video width="568" height="320" controls>
-  <source src="https://mediastream.cern.ch/MediaArchive/Video/Public/WebLectures/2018/608592c27/608592c27_desktop_camera_480p_1000.mp4" type="video/mp4">
+  <source src="https://mediastream.cern.ch/MediaArchive/Video/Public/WebLectures/2018/608592c27/608592c27_desktop_camera_480p_1000.mp4" type="video/mp4"  style="float:right">
 Your browser does not support the video tag.
 </video> 
 
 ## Books
-- [Medical Physiology in Modelica](http://book.physiovalues.tk) - 10% complete, aim to deliver interactive book with models in modelica following common methods in modeling human physiology.
+ <iframe width="568" height="320"  style="float:right"
+src="https://www.youtube.com/embed/bQP--AXRJ-Q">
+</iframe> 
+- [Medical Physiology in Modelica](http://book.physiovalues.tk) - 10% complete, aim to deliver free web based interactive book with models in modelica following common methods in modeling human physiology.
 
 ## Past projects
 - [Physiovalues](http://www.physiovalues.tk) - web based system to perform simulation and parameter identification in multiple nodes distributed in local cluster or cloud computing environment
@@ -19,7 +22,7 @@ Your browser does not support the video tag.
 - [Psychoacoustic Tests](http://physiome.lf1.cuni.cz/psychoacoustictest/) - web application to edit and perform assesment of perception on sounds, voice and music
 
 Short interview in EGI user forum about relation of scientific domain (physiology) and technology (grid & cloud computing).
- <iframe width="568" height="320"
+ <iframe width="568" height="320"  style="float:right"
 src="https://www.youtube.com/embed/hRlFrwQiN3o">
 </iframe> 
 
