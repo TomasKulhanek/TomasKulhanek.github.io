@@ -2,12 +2,8 @@ I'm software developer with a special focus on scientific virtual research envir
 
 ## Current project
 - [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology
-- [Virtual Folder](https://portal.west-life.eu) - public web application aggregating scattered data from different storage providers, giving common interface and API. 
-- [Virtual Folder src](https://github.com/h2020-westlife-eu/west-life-wp6) - source codes
-- [Virtual Folder Gitbook Docs](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs) - documentation
-- Repository - exemplar implementation of repository for data management for small and medium facility connected to structural biology community via Instruct org.
-- [Repository source codes](https://github.com/h2020-westlife-eu/wp6-repository) - Source codes
-- [Repository Gitbook Docs](https://h2020-westlife-eu.gitbook.io/virtual-folder-docs/repository) - documentation
+- [Virtual Folder](https://github.com/h2020-westlife-eu/west-life-wp6) - virtual folder view of scattered data, aggregates multiple data storage resource and provides unified way to access them, test VM template is available from source codes
+- [Repository](https://github.com/h2020-westlife-eu/wp6-repository) - exemplar implementation of repository of data for small and middle facilities in order to follow data management during life cycle of data in structural biology research.
 - Talk at CERN about the project from [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
 <video width="568" height="320" controls>
   <source src="https://mediastream.cern.ch/MediaArchive/Video/Public/WebLectures/2018/608592c27/608592c27_desktop_camera_480p_1000.mp4" type="video/mp4">
