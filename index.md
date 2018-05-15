@@ -42,6 +42,8 @@ Short interview in EGI user forum about relation of scientific domain (physiolog
 - F. Ježek, T. Kulhánek, K. Kalecký, and J. Kofránek, ‘Lumped models of the cardiovascular system of various complexity’, Biocybernetics and Biomedical Engineering, vol. 37, no. 4, pp. 666–678, 2017 [Online]. Available: http://dx.doi.org/10.1016/j.bbe.2017.08.001 
 - T. Kulhánek, J. Kofránek, and M. Mateják, ‘Modeling of short-term mechanism of arterial pressure control in the cardiovascular system: Object-oriented and acausal approach’, Computers in Biology and Medicine, vol. 54, pp. 137–144, Nov. 2014 [Online]. Available: http://dx.doi.org/10.1016/j.compbiomed.2014.08.025
 - M. Mateják, T. Kulhánek, and S. Matoušek, ‘Adair-based hemoglobin equilibrium with oxygen, carbon dioxide and hydrogen ion activity’, Scandinavian Journal of Clinical and Laboratory Investigation, vol. 75, no. 2, pp. 113–120, Jan. 2015 [Online]. Available: http://dx.doi.org/10.3109/00365513.2014.984320 
+- M. Mateják, T. Kulhánek, J. Šilar, P. Privitzer, F. Ježek, and J. Kofránek, ‘Physiolibrary - Modelica library for Physiology’, in Proceedings of the 10th International Modelica Conference, March 10-12, 2014, Lund, Sweden, 2014 [Online]. Available: http://dx.doi.org/10.3384/ecp14096499 
+- T. Kulhanek, M. Matejak, J. Silar, and J. Kofranek, ‘Parameter estimation of complex mathematical models of human physiology using remote simulation distributed in scientific cloud’, in IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), 2014 [Online]. Available: http://dx.doi.org/10.1109/BHI.2014.6864463 
 
 ## Other resources
 - [Personal blog](https://tomaskulhanek.github.io/blog)
