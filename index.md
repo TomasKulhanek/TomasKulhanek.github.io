@@ -1,4 +1,4 @@
-I'm software developer with a special focus on scientific virtual research environment utilizing grid and cloud computing leveraging the computational, configuration, installation task in order to enable high quality research supported by current technology and contemporary methods.
+I'm software developer with a special focus on scientific software. In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. Using backend technologies (.NET, [ServiceStack](https://github.com/ServiceStack/ServiceStack), [Java Spring](https://spring.io/)) and frontend technologies (HTML5, pure Javascript and JQuery, recently on ECMAScript 6 and [Aurelia](https://aurelia.io) ). I covered these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception.
 
 ## Current project
 - [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology
