@@ -17,10 +17,10 @@ Talk at CERN about the project from [http://cds.cern.ch/record/2302615](http://c
 
 ## Past projects
 
-* [Physiovalues](http://www.physiovalues.tk) - web based system to perform simulation and parameter identification in multiple nodes distributed in local cluster or cloud computing environment
+* [Physiovalues](http://www.physiovalues.tk) - web based system to perform simulation and parameter identification in multiple nodes distributed in local cluster or cloud computing environment   
+* [Physiolibrary](http://www.physiolibrary.org) - Modelica library to enable and facilitate modeling of human physiology using mechanistic approach introduced in original [HumMod](http://www.hummod.org) and [Physiomodel](http://www.physiomodel.org) 
    - [github.com/TomasKulhanek/Physiolibrary.models](https://github.com/TomasKulhanek/Physiolibrary.models) - various models of pulsatile and non pulsatile cardiovascular system in Modelica 
-- [Physiolibrary](http://www.physiolibrary.org) - Modelica library to enable and facilitate modeling of human physiology using mechanistic approach introduced in original [HumMod](http://www.hummod.org) and [Physiomodel](http://www.physiomodel.org) 
-- [Psychoacoustic Tests](http://physiome.lf1.cuni.cz/psychoacoustictest/) - web application to edit and perform assesment of perception on sounds, voice and music
+* [Psychoacoustic Tests](http://physiome.lf1.cuni.cz/psychoacoustictest/) - web application to edit and perform assesment of perception on sounds, voice and music
 
 <iframe width="355" height="200"  style="float:right"
 src="https://www.youtube.com/embed/bQP--AXRJ-Q">
