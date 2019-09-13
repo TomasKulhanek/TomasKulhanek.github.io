@@ -1,11 +1,10 @@
 I'm software developer with a special focus on scientific software. In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. Using backend technologies (.NET and [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/)) and frontend technologies (HTML5, pure Javascript and JQuery, recently on ECMAScript 6 and [Aurelia](https://aurelia.io) ). I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
 ## Current projects
+* [Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios) - application of Virtual Patient with VR/AR and basic 3d anatomy models connected to computational models and simulators of pathological physiology.
+## Past projects
 * [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/).
 * [PROV-N-editor](https://github.com/TomasKulhanek/prov-n-editor) - ACE editor integrated with custom worker generated from ANTLR4 grammar with syntax highlighting and syntax validation. The editor can communicate with other web apps using cross document messaging API and can be filled with content using hash parameters 'content', 'contentBase64' and 'contentLz'. [Live - browser only demo](https://h2020-westlife-eu.github.io/prov-n-editor/)
-
-## Past projects
-
 * [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology, H2020 led by STFC in 2015-2018, data management work package and related parts at 
    - sources of [github.com/h2020-westlife-eu/virtualfolder](https://github.com/h2020-westlife-eu/virtualfolder) - virtual folder view of scattered data, aggregates multiple data storage resource and provides unified way to access them, includes scripts to prepare VM template with basic structural biology software. (Frontend: HTML + Aurelia JS, backend: ServiceStack.NET)
    - sources of [github.com/h2020-westlife-eu/wp6-repository](https://github.com/h2020-westlife-eu/wp6-repository) - exemplar implementation of repository of data for small and middle facilities in order to follow data management during life cycle of data in structural biology research. (Frontend: HTML + Aurelia JS, Backend: Java Spring)
