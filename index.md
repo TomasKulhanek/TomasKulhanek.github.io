@@ -2,6 +2,7 @@ I'm software developer with a special focus on scientific software. In the past 
 
 ## Current projects
 * [Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios) - application of Virtual Patient with VR/AR and basic 3d anatomy models connected to computational models and simulators of pathological physiology.
+* [Physiome](http://www.physiome.cz/en/) - research and education in computational physiology
 ## Past projects
 * [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/).
 * [PROV-N-editor](https://github.com/TomasKulhanek/prov-n-editor) - ACE editor integrated with custom worker generated from ANTLR4 grammar with syntax highlighting and syntax validation. The editor can communicate with other web apps using cross document messaging API and can be filled with content using hash parameters 'content', 'contentBase64' and 'contentLz'. [Live - browser only demo](https://h2020-westlife-eu.github.io/prov-n-editor/)
