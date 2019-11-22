@@ -1,12 +1,15 @@
-I'm software developer with a special focus on scientific software. In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. Using backend technologies (.NET and [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/)) and frontend technologies (HTML5, pure Javascript and JQuery, recently on ECMAScript 6 and [Aurelia](https://aurelia.io) ). I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
+I'm software developer with a special focus on scientific software. 
+
+In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. I've used and developed for these backend technologies (.NET and [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/)) and frontend technologies (HTML5, pure Javascript and JQuery, recently on ECMAScript 6 and [Aurelia](https://aurelia.io) ). 
+
+I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
 ## Current projects
 * Virtual patient simulator, Robotic and mechanotronic trainer - supported by Czech ministry of industry and trade, led by COM SYS TRADE and partnered by Charles University, Creative Connections, Moravian Instruments, Inomech.
   * [Physiome.cz](http://www.physiome.cz/en/) - basic research and education in computational physiology.
   * [Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios) - prototype application of Virtual Patient using 3d anatomy models connected with simulation of models and simulators of pathological physiology.
 ## Past projects
-* EOSC-Hub - H2020 project - led by EGI and partnered with many academic and instrial partners, participated to WP6.4 package and product B2NOTE - scientific data annotation service
-  * [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/).
+* [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/). Part WP 6.4 of EOSC-Hub - H2020 project led by EGI and partnered with many academic and instrial partners
 * [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology, European Horizon 2020 led by STFC UK in 2015-2018, data management work package and related parts, participated in WP6
   * [PROV-N-editor](https://github.com/TomasKulhanek/prov-n-editor) - ACE editor integrated with custom worker generated from ANTLR4 grammar with syntax highlighting and syntax validation. The editor can communicate with other web apps using cross document messaging API and can be filled with content using hash parameters 'content', 'contentBase64' and 'contentLz'. [Live - browser only demo](https://h2020-westlife-eu.github.io/prov-n-editor/)
   * sources of [github.com/h2020-westlife-eu/virtualfolder](https://github.com/h2020-westlife-eu/virtualfolder) - virtual folder view of scattered data, aggregates multiple data storage resource and provides unified way to access them, includes scripts to prepare VM template with basic structural biology software. (Frontend: HTML + Aurelia JS, backend: ServiceStack.NET)
@@ -53,8 +56,10 @@ Short interview at EGI user forum about relation of scientific domain (physiolog
 <div style="clear:both"></div>
 
 ### Academic work, articles in scientific journals or conference proceedings
-- https://doi.org/10.1016/j.yjsbx.2019.100006
-- [Dissertation](https://github.com/TomasKulhanek/Dissertation/raw/master/thesis.pdf)
+- C.Morris, et al., West-Life: A Virtual Research Environment for structural biology, Journal of Structural Biology: X
+Volume 1, January–March 2019, 100006, https://doi.org/10.1016/j.yjsbx.2019.100006 
+- T. Kulhanek, C. Morris, M.D.Wynn (2017). West-Life Virtual Folder—Components and Tools. Instruct-Biennial 2017, http://doi.org/10.13140/RG.2.2.26963.78889
+- T. Kulhanek, [Dissertation](https://github.com/TomasKulhanek/Dissertation/raw/master/thesis.pdf)
 - T. Kulhanek, F. Jezek, M. Matejak, J. Silar, and J. Kofranek, ‘Experiences in teaching of m-odeling and simulation with emphasize on equation-based and acausal modeling techniques’, in 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2015 [Online]. Available: http://dx.doi.org/10.1109/EMBC.2015.7319192 
 - F. Ježek, T. Kulhánek, K. Kalecký, and J. Kofránek, ‘Lumped models of the cardiovascular system of various complexity’, Biocybernetics and Biomedical Engineering, vol. 37, no. 4, pp. 666–678, 2017 [Online]. Available: http://dx.doi.org/10.1016/j.bbe.2017.08.001 
 - T. Kulhánek, J. Kofránek, and M. Mateják, ‘Modeling of short-term mechanism of arterial pressure control in the cardiovascular system: Object-oriented and acausal approach’, Computers in Biology and Medicine, vol. 54, pp. 137–144, Nov. 2014 [Online]. Available: http://dx.doi.org/10.1016/j.compbiomed.2014.08.025
