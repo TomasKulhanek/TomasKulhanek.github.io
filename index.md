@@ -6,10 +6,11 @@ I have been covering these scientific domains: computational physiology, integra
 
 ## Current projects
 * Virtual patient simulator, Robotic and mechanotronic trainer - supported by Czech ministry of industry and trade, led by COM SYS TRADE and partnered by Charles University, Creative Connections, Moravian Instruments, Inomech.
+  * [Bodylight-VirtualBody](https://bodylight.physiome.cz/Bodylight-VirtualBody/) - prototype application of Virtual Patient using 3d anatomy models connected with real simulation of models of pathological physiology.
   * [Physiome.cz](http://www.physiome.cz/en/) - basic research and education in computational physiology.
-  * [Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios) - prototype application of Virtual Patient using 3d anatomy models connected with simulation of models and simulators of pathological physiology.
+  * Open source components - https://github.com/creative-connections/
 ## Past projects
-* [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/). Part WP 6.4 of EOSC-Hub - H2020 project led by EGI and partnered with many academic and instrial partners
+* [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/). Part WP 6.4 of EOSC-Hub - H2020 project led by EGI and partnered with many academic and industrial partners (developed B2Note version 2)
 * [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology, European Horizon 2020 led by STFC UK in 2015-2018, data management work package and related parts, participated in WP6
   * [PROV-N-editor](https://github.com/TomasKulhanek/prov-n-editor) - ACE editor integrated with custom worker generated from ANTLR4 grammar with syntax highlighting and syntax validation. The editor can communicate with other web apps using cross document messaging API and can be filled with content using hash parameters 'content', 'contentBase64' and 'contentLz'. [Live - browser only demo](https://h2020-westlife-eu.github.io/prov-n-editor/)
   * sources of [github.com/h2020-westlife-eu/virtualfolder](https://github.com/h2020-westlife-eu/virtualfolder) - virtual folder view of scattered data, aggregates multiple data storage resource and provides unified way to access them, includes scripts to prepare VM template with basic structural biology software. (Frontend: HTML + Aurelia JS, backend: ServiceStack.NET)
