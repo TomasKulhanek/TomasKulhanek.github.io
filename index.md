@@ -6,7 +6,8 @@ I have been covering these scientific domains: computational physiology, integra
 
 ## Current projects
 * Virtual patient simulator, Robotic and mechanotronic trainer - supported by Czech ministry of industry and trade, led by COM SYS TRADE and partnered by Charles University, Creative Connections, Moravian Instruments, Inomech.
-  * [Bodylight-VirtualBody](https://bodylight.physiome.cz/Bodylight-VirtualBody/) - prototype application of Virtual Patient using 3d anatomy models connected with real simulation of models of pathological physiology.
+  * [Bodylight-Scenarios](https://bodylight.physiome.cz/Bodylight-Scenarios/) - Bodylight (Modelica, WebAssembly, Web Components) powered scenarios of pathological physiology with simulation of models.
+  * [Bodylight-VirtualBody](https://bodylight.physiome.cz/Bodylight-VirtualBody/) - WEBGL powered 3D visualisation of human anatomy enriched with simulation of models of pathological physiology.
   * [Physiome.cz](http://www.physiome.cz/en/) - basic research and education in computational physiology.
   * Open source components - https://github.com/creative-connections/
 ## Past projects
