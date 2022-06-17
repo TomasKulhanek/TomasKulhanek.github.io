@@ -5,7 +5,7 @@ In the past I focused on the modeling methodologies and integrating algorithm an
 I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
 ## Current projects
- * Creative Physiome - [bodylight.physiome.cz](https://bodylight.physiome.cz)
+ * startup called **Creative Physiome** - Improve healthcare and medicine with validated scientific simulators. [bodylight.physiome.cz](https://bodylight.physiome.cz)
 
 ## Past projects 2019-2022
 * Virtual patient simulator, Robotic and mechanotronic trainer - supported by Czech ministry of industry and trade, led by COM SYS TRADE and partnered by Charles University, Creative Connections, Moravian Instruments, Inomech.
