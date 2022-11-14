@@ -5,7 +5,7 @@ In the past I focused on the modeling methodologies and integrating algorithm an
 I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
 ## Current projects
- * **eGolem** - Improve healthcare and medicine with validated scientific simulators. [egolem.online](https://egolem.online)
+ * **eGolem** - Virtual patient mannequin with realistic breathing, connected to ECMO device mockup and simulator of blood gases to train healthcare staff and show pathophysiology behind. [egolem.online](https://egolem.online)
  ![mannequinsimulator.gif](mannequinsimulator.gif)
  
  * **Bodylight.js** technology to transfer simple or complex mathematical model (Modelica) to scientific web simulator with modern web visualisation (WebAssembly, WebGL, Canvas) https://bodylight.physiome.cz
