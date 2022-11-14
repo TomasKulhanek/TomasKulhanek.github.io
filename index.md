@@ -1,8 +1,8 @@
 I'm software developer with a special focus on scientific software. 
 
-In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. With my colleagues we have developed solution using backend technologies (.NET, [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/), recentlz Python, Flask) and frontend technologies (HTML5, Javascript and standards WebAssembly, WebGL and libraries and frameworks [Aurelia](https://aurelia.io),[babylonjs](https://www.babylonjs.com/), [Emscripten](https://emscripten.org/) ). 
+In the past I joined multidisciplinar team focused on medicine and pathophysiology, modeling and simulation, high performance computation in grid and cloud computing networks. With my colleagues we have developed solution using backend technologies (.NET, [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/), recently Python, Flask) and frontend  or backend-less technologies (HTML5, Javascript and standards WebAssembly, WebGL and libraries and frameworks [Aurelia](https://aurelia.io),[babylonjs](https://www.babylonjs.com/), [Emscripten](https://emscripten.org/) ). 
 
-I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
+I have a pleasure to work with experts in these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
 ## Current projects
  * **eGolem** - Virtual patient mannequin with realistic breathing, connected to ECMO device mockup and simulator of blood gases to train healthcare staff and show pathophysiology behind. [egolem.online](https://egolem.online)
