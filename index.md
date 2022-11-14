@@ -1,6 +1,6 @@
 I'm software developer with a special focus on scientific software. 
 
-In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. I've used and developed for these backend technologies (.NET and [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/)) and frontend technologies (HTML5, pure Javascript and JQuery, recently on ECMAScript 6 and [Aurelia](https://aurelia.io) ). 
+In the past I focused on the modeling methodologies and integrating algorithm and simulation computation into grid and cloud computing. With my colleagues we have developed solution using backend technologies (.NET, [ServiceStack](https://github.com/ServiceStack/ServiceStack), Java and [Spring](https://spring.io/), recentlz Python, Flask) and frontend technologies (HTML5, Javascript and standards WebAssembly, WebGL and libraries and frameworks [Aurelia](https://aurelia.io),[babylonjs](https://www.babylonjs.com/), [Emscripten](https://emscripten.org/) ). 
 
 I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
