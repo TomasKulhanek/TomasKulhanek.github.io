@@ -5,8 +5,11 @@ In the past I focused on the modeling methodologies and integrating algorithm an
 I have been covering these scientific domains: computational physiology, integrative structural biology, psychoacoustic and auditory perception research.
 
 ## Current projects
- * startup called **Creative Physiome** - Improve healthcare and medicine with validated scientific simulators. [bodylight.physiome.cz](https://bodylight.physiome.cz)
-
+ * **eGolem** - Improve healthcare and medicine with validated scientific simulators. [egolem.online](https://egolem.online)
+ 
+ Based on technology bodylight.js: from simple or complex mathematical model (Modelica) to scientific web simulator with modern web visualisation (WebAssembly, WebGL, Canvas) https://bodylight.physiome.cz
+ ![plakatIron](plakatIron.gif)
+ 
 ## Past projects 2019-2022
 * Virtual patient simulator, Robotic and mechanotronic trainer - supported by Czech ministry of industry and trade, led by COM SYS TRADE and partnered by Charles University, Creative Connections, Moravian Instruments, Inomech.
   * [Bodylight-docs](https://bodylight.physiome.cz/Bodylight-docs/) - Tutorial and reference guide to Bodylight.js 2.0 beta (Modelica, WebAssembly, Web Components), open source tools to get fast model simulation and visualisation to browser.
