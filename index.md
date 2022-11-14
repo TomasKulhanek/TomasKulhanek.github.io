@@ -6,8 +6,9 @@ I have been covering these scientific domains: computational physiology, integra
 
 ## Current projects
  * **eGolem** - Improve healthcare and medicine with validated scientific simulators. [egolem.online](https://egolem.online)
+ ![mannequinsimulator.gif](mannequinsimulator.gif)
  
- Based on technology bodylight.js: from simple or complex mathematical model (Modelica) to scientific web simulator with modern web visualisation (WebAssembly, WebGL, Canvas) https://bodylight.physiome.cz
+ * **Bodylight.js** technology to transfer simple or complex mathematical model (Modelica) to scientific web simulator with modern web visualisation (WebAssembly, WebGL, Canvas) https://bodylight.physiome.cz
  ![plakatIron](plakatIron.gif)
  
 ## Past projects 2019-2022
