@@ -45,7 +45,7 @@ src="https://www.youtube.com/embed/bQP--AXRJ-Q">
 
 ## Talks and media
 
-### Talk at CERN (Geneva) in 2018
+### Talk at CERN (Geneva) in 2018 about use of CERN developed technologies in structural biology
 
 about the project from [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
 
