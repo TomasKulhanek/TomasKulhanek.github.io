@@ -19,6 +19,7 @@ I have a pleasure to work with experts in these scientific domains: computationa
   * [Bodylight-VirtualBody](https://bodylight.physiome.cz/Bodylight-VirtualBody/) - WEBGL powered 3D visualisation of human anatomy enriched with simulation of models of pathological physiology.
   * [Physiome.cz](http://www.physiome.cz/en/) - basic research and education in computational physiology.
   * Open source components - https://github.com/creative-connections/
+
 ## Past projects
 * [B2NOTE](https://github.com/EUDAT-B2NOTE/b2note) - web tool for scientific data annotation led by e-Science Data Factory (SME) under [EOSC-Hub project](https://www.eosc-hub.eu/). Part WP 6.4 of EOSC-Hub - H2020 project led by EGI and partnered with many academic and industrial partners (developed B2Note version 2)
 * [H2020 West-Life](https://www.west-life.eu) - Virtual Research Environment for Structural Biology, European Horizon 2020 led by STFC UK in 2015-2018, data management work package and related parts, participated in WP6
@@ -44,6 +45,11 @@ src="https://www.youtube.com/embed/bQP--AXRJ-Q">
 
 
 ## Talks and media
+
+### Pitch deck of eGolem, Wroclaw 2023, Poland - commercialization effort of a technology developed by our team
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PQnS10osq1E?si=zaA4U_CgvdlteGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Talk at CERN (Geneva) in 2018 about use of CERN developed technologies in structural biology
 
