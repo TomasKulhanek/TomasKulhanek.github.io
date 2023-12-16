@@ -64,9 +64,7 @@ Your browser does not support the video tag.
 
 ### Short interview at EGI user forum (Manchester) in 2013
 
-<iframe width="355" height="200"  style="float:right"
-src="https://www.youtube.com/embed/hRlFrwQiN3o">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRlFrwQiN3o?si=Ger-BGo5YficmC_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Short interview at EGI user forum about relation of scientific domain (physiology) and technology (grid & cloud computing).
 
